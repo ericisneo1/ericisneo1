@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericisneo1
+- 👋 Hi, I’m @eric_is_neo
 - 👀 I’m interested in Advanced Analytics, IoT Predictive Analytics, Aritificial Intelligence, Machine Learning, Robotics, and generating interesting insights and building useful tools with that knowledge.
 - 🌱 I’m currently learning Python, Java, R
 - 💞️ I’m looking to collaborate on coding challenges, product development using the knowledge of the above areas. 
